@@ -2,9 +2,7 @@
 
 💻 Machine Learning Engineer | 🤖 AI & LLM Systems | 📍 London, UK  
 
-📧 dantingxing1994@outlook.com  
-📱 +44 7342 793056  
-🛂 Pre-settled Status (UK)
+📧 tinaxing1997@outlook.com
 
 ---
 
