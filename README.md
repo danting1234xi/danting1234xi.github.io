@@ -2,7 +2,7 @@
 
 💻 Machine Learning Engineer | 🤖 AI & LLM Systems | 📍 London, UK  
 
-📧 tinaxing1997@outlook.com
+📧 danting.zhang22@alumni.imperial.ac.uk
 
 ---
 
