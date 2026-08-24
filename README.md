@@ -60,35 +60,28 @@ I enjoy bridging **research ideas and real-world production systems**, deliverin
 ## 🎓 Education
 
 - **Imperial College London** — MRes Artificial Intelligence & Machine Learning  
-  *Oct 2022 – Sep 2024* · Score: 70/100  
 
 - **University of Edinburgh** — MSc Applied Mathematics  
-  *Sep 2021 – Sep 2022* · Score: 73/100  
 
 - **University of New South Wales** — BSc Computer Science  
-  *Feb 2017 – Mar 2021* · Score: 84/100  
 
 ---
 
 ## 🔬 Research Projects
 
 ### 🧪 Self-Supervised Learning for Cellular Nuclei Segmentation  
-*Sep 2023 – Sep 2024*  
 - Developed a semi-supervised segmentation model for histopathology images with limited labels.  
 - Achieved **competitive SOTA performance** while reducing labeling requirements by **50%+**.
 
-### 🌊 Unsupervised Learning for ROV Image Clustering  
-*Jun 2022 – Sep 2022*  
+### 🌊 Unsupervised Learning for ROV Image Clustering    
 - Designed a convolutional autoencoder for clustering distorted underwater ROV images.  
 - Outperformed **VGG-based baselines** in clustering accuracy.
 
 ### 🔬 Computer Vision: Cell Tracking in Time-Lapse Microscopy  
-*Aug 2020 – Dec 2021*  
 - Built a custom PyTorch-based tracking algorithm for thousands of biological cells.  
 - Achieved **92% tracking accuracy** across divisions and movements.
 
-### 📝 NLP: Restaurant Review Sentiment Classification  
-*May 2020 – Aug 2020*  
+### 📝 NLP: Restaurant Review Sentiment Classification   
 - Developed a custom **LSTM model** for sentiment classification.  
 - Ranked **top 15%** among 330+ competitors.
 
