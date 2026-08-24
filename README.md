@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tina Zhang
+# 👋 Hi, I'm Danting Zhang
 
 💻 Machine Learning Engineer | 🤖 AI & LLM Systems | 📍 London, UK  
 
