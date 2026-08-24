@@ -40,8 +40,6 @@ I enjoy bridging **research ideas and real-world production systems**, deliverin
 ## 💼 Professional Experience
 
 ### 🧠 Machine Learning Engineer  
-**Illuma Technology** (AOP Media Tech Winner) · London, UK  
-*Jan 2024 – Present*
 
 - Led the **system design and deployment of multi-agent orchestration and LLM-powered services** on  
   Google Cloud Platform (Vertex AI, Cloud Run, Compute Engine, BigQuery) and AWS (Lambda, S3, CodeBuild).
@@ -52,10 +50,7 @@ I enjoy bridging **research ideas and real-world production systems**, deliverin
 
 ---
 
-### 🧩 Backend Software Engineer Intern  
-**Tencent** · Shenzhen, China  
-*May 2021 – Aug 2021*
-
+### 🧩 Backend Software Engineer Intern   
 - Contributed to backend development of **large-scale social networking features** using Spring Boot and MySQL.
 - Improved service stability and scalability, supporting **300,000+ daily active users**.
 - Helped scale product adoption, contributing to an increase in app downloads from **50k to 500k**.
