@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Danting Zhang
 
-💻 Machine Learning Engineer | 🤖 AI & LLM Systems | 📍 London, UK  
+💻 Machine Learning Engineer | 🤖 AI & LLM Systems | 📍 London, Setteld in UK  
 
 📧 danting.zhang22@alumni.imperial.ac.uk
 
